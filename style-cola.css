@@ -1,0 +1,86 @@
+/*
+
+#app {
+    display:grid;
+    height: 100vh;
+    max-width: 70rem;
+
+}
+
+
+
+
+/*
+.nav {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.2rem 1.8rem;
+    gap: 2.6rem;
+    width: min(112rem, 100%);
+    margin: auto;
+}
+
+*/
+
+/*.nav {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    background-color: #387E96;
+}
+
+.logo {
+    min-width: 4rem;
+    min-height: 4rem;
+    border-radius: 50%;
+    background: #F4FCFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.input-wrapper label {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.input-wrapper input {
+    width: 100%;
+    padding: 1.2rem 1.6rem 1.2rem 1.4rem;
+    background-color: RGBA(255, 255, 255, 0.20);
+    border: 0;
+    border-radius: .4rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #FFF;
+    line-height: 1.6rem;
+
+}
+
+
+.input-wrapper input::placeholder {
+    color: #FFF;
+    font-weight: 600;
+
+
+}
+
+
+.avatar {
+    width: 4.2rem;
+    height: 4.2rem;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
+
+.header-img{
+    width: 100%;
+}
+
+*/ 
